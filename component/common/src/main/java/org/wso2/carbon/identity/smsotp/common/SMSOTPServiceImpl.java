@@ -52,7 +52,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * This class implements the {@link SMSOTPService} interface.
+ * This class implements the SMSOTPService interface.
  */
 public class SMSOTPServiceImpl implements SMSOTPService {
 
